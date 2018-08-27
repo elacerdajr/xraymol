@@ -1,7 +1,7 @@
 #X-raymol
 ---
 
-##Description
+## Description
 
 This script written in Perl is a tool for identifying atom bonds, angles and dihedrals. 
 
