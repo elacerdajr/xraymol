@@ -15,7 +15,7 @@ xraymol.pl input.xyz
 
 where 'input.xyz' is a XYZ file the of the molecule.
 
-The output will be a <name of the input>.xray
+The output will be a input.xray.
 
 
 
